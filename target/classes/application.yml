@@ -1,0 +1,15 @@
+trainDb:
+    uri: "src/main/resources/static/trainsdb.csv"
+
+# Swagger Documentation
+swagger:
+    service:
+        version: "1.0.0"
+        title: "Trains Web Api"
+        description: "A service that provides APIs for Trains Routes Service"
+        termsPath: ""
+        contact:
+            name: "Vivek"
+            email: "yovivekverma@gmail.com"
+        licencePath: "#"
+        licenceType: ""
